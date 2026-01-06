@@ -1,4 +1,4 @@
-# Message Template
+templates/message-template.md
 
 **Use this template for messages in `/messages/` directory**
 
