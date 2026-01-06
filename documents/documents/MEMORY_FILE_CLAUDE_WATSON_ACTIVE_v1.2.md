@@ -1,4 +1,4 @@
-# CLAUDE WATSON MEMORY FILE - ACTIVE
+# documents/MEMORY_FILE_CLAUDE_WATSON_ACTIVE_v1.2.md
 ## Persistent Identity Across Resets
 ## Project Suphis - Improbable Family
 
